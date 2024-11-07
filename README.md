@@ -1,25 +1,25 @@
-# Covid-19 Cases Predictions in Malaysia by Forecasting Time Series Model using LSTM
+# **Covid-19 Cases Predictions in Malaysia by Forecasting Time Series Model using LSTM**
 
 This LSTM neural network model was trained using nearly 1500 raw datasets to forecast the new cases for Covid-19 in Malaysia.
 
-## Description:
+## **Description:**
 1. Objective: To predict new cases in Malaysia using the past 30 days of number of cases in order to determine if travel bans should be imposed or rescinded.
-2. The datasets are officially provided by Ministry of Health Malaysia (MOH).
+2. The datasets are officially provided by **Ministry of Health Malaysia (MOH)**.
 3. The dataset contains anomalies as 2 different type of NaNs with 10 duplicates data.
 4. The layers used in the model training are input layers, LSTM and Dense as the output. A
 
-#### Model Architecture:
+#### *Model Architecture:*
 ![model](https://github.com/user-attachments/assets/73d17436-fe60-48ff-b935-c321cf691e95)
 
-### Results:  
+### **Results:**  
 
-#### Model Score Evaluation:-
+#### *Model Score Evaluation:-*
 ![result_evaluation](https://github.com/user-attachments/assets/e4f1bfeb-ed24-4da6-a809-00c0877f425f)
 
-#### Trend Predictions for Covid-19 New Cases in Malaysia:-
+#### *Trend Predictions for Covid-19 New Cases in Malaysia:-*
 ![Prediction_graph](https://github.com/user-attachments/assets/02478254-f099-493b-8cc4-7fa7383adff2)
 
-### Discussion: 
+### **Discussion:**
 1. The model able to predict the trend of the Covid-19 cases in Malaysia.
 2. Only LSTM, Dense, and Dropout layers had been implemented in this model.
 3. Nodes in the LSTM layers were 32 and 64, and the activation used in this model was tanh.
@@ -28,13 +28,13 @@ This LSTM neural network model was trained using nearly 1500 raw datasets to for
 6. For MAE evaluation, the loss for the model only 0.0025.
 7. The training loss able to diplay using TensorBoard as below:
    
-#### Training Loss:-
+#### *Training Loss:-*
 ![training_loss](https://github.com/user-attachments/assets/6a0d416f-cb3f-4065-b994-ac1be715f6ab)
 
-#### Training Mae:-
+#### *Training Mae:-*
 ![training_mae](https://github.com/user-attachments/assets/b6086cda-d049-4628-a2cd-39423d44b35f)
 
-### Credits:
+### **Credits:**
 The source of the dataset are 100% from MOH Github.
 Check out for the latest dataset from here:  
-MoH-Malaysia/covid19-public: Official data on the COVID-19 epidemic in Malaysia. Powered by CPRC, CPRC Hospital System, MKAK, and MySejahtera.
+[MoH-Malaysia/covid19-public: Official data on the COVID-19 epidemic in Malaysia. Powered by CPRC, CPRC Hospital System, MKAK, and MySejahtera.]
