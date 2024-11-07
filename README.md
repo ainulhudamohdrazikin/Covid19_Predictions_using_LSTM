@@ -29,10 +29,12 @@ This LSTM neural network model was trained using nearly 1500 raw datasets to for
 7. The training loss able to diplay using TensorBoard as below:
    
 #### *Training Loss:-*
-![training_loss](https://github.com/user-attachments/assets/6a0d416f-cb3f-4065-b994-ac1be715f6ab)
+![training_loss](https://github.com/user-attachments/assets/c4912ee3-2d11-4b22-a6a4-e8606fb4d096)
+
 
 #### *Training Mae:-*
-![training_mae](https://github.com/user-attachments/assets/b6086cda-d049-4628-a2cd-39423d44b35f)
+![training_mae (2)](https://github.com/user-attachments/assets/2b132257-5fac-4101-91af-6c76dffa28e3)
+
 
 ### **Credits:**
 The source of the dataset are 100% from MOH Github.
