@@ -2,7 +2,7 @@
 
 This LSTM neural network model was trained using nearly 1500 raw datasets to forecast the new cases for Covid-19 in Malaysia.
 
-## **Description:**
+## **Descriptions:**
 1. Objective: To predict new cases in Malaysia using the past 30 days of number of cases in order to determine if travel bans should be imposed or rescinded.
 2. The datasets are officially provided by **Ministry of Health Malaysia (MOH)**.
 3. The dataset contains anomalies as 2 different type of NaNs with 10 duplicates data.
@@ -19,7 +19,7 @@ This LSTM neural network model was trained using nearly 1500 raw datasets to for
 ### *Trend Predictions for Covid-19 New Cases in Malaysia:-*
 ![Prediction_graph](https://github.com/user-attachments/assets/02478254-f099-493b-8cc4-7fa7383adff2)
 
-## **Discussion:**
+## **Discussions:**
 1. The model able to predict the trend of the Covid-19 cases in Malaysia.
 2. Only LSTM, Dense, and Dropout layers had been implemented in this model.
 3. Nodes in the LSTM layers were 32 and 64, and the activation used in this model was tanh.
@@ -36,7 +36,7 @@ This LSTM neural network model was trained using nearly 1500 raw datasets to for
 ![training_mae (2)](https://github.com/user-attachments/assets/2b132257-5fac-4101-91af-6c76dffa28e3)
 
 
-## **Credits:**
+## **Credit:**
 The source of the dataset are 100% from MoH Malaysia.
 Check out for the latest dataset from their GitHub just one click away 😇 :  
 [Github MoH](https://github.com/MoH-Malaysia/covid19-public/tree/main/epidemic)
