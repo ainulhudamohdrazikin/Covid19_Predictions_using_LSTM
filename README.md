@@ -37,6 +37,6 @@ This LSTM neural network model was trained using nearly 1500 raw datasets to for
 
 
 ### **Credits:**
-The source of the dataset are 100% from MOH Github.
-Check out for the latest dataset from here:  
+The source of the dataset are 100% from MoH Malaysia.
+Check out for the latest dataset from their GitHub just one click away :) :  
 [Github MoH](https://github.com/MoH-Malaysia/covid19-public/tree/main/epidemic)
