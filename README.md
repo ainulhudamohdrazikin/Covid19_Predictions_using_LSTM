@@ -24,8 +24,9 @@ This LSTM neural network model was trained using nearly 1500 raw datasets to for
 2. Only LSTM, Dense, and Dropout layers had been implemented in this model.
 3. Nodes in the LSTM layers were 32 and 64, and the activation used in this model was tanh.
 4. Window size that set in this model was up to 30 days.
-5. From the result can be seen that the MAPE error was 0.09% which lesser than 1% during the elavuation and using test dataset
-6. The training loss able to diplay using TensorBoard as below:
+5. From the result can be seen that the MAPE error was 0.09% which lesser than 1% during the evaluation and by using test dataset.
+6. For MAE evaluation, the loss for the model only 0.0025.
+7. The training loss able to diplay using TensorBoard as below:
    
 #### Training Loss:-
 ![training_loss](https://github.com/user-attachments/assets/6a0d416f-cb3f-4065-b994-ac1be715f6ab)
