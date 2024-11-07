@@ -1,4 +1,4 @@
-# **Covid-19 Cases Predictions in Malaysia by Forecasting Time Series Model using LSTM**
+# **Covid-19 Cases Predictions in Malaysia by Forecasting Time Series Model using LSTM 📈📉**
 
 This LSTM neural network model was trained using nearly 1500 raw datasets to forecast the new cases for Covid-19 in Malaysia.
 
@@ -38,5 +38,5 @@ This LSTM neural network model was trained using nearly 1500 raw datasets to for
 
 ### **Credits:**
 The source of the dataset are 100% from MoH Malaysia.
-Check out for the latest dataset from their GitHub just one click away :) :  
+Check out for the latest dataset from their GitHub just one click away 😇 :  
 [Github MoH](https://github.com/MoH-Malaysia/covid19-public/tree/main/epidemic)
