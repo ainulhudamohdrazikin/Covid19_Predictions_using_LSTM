@@ -3,7 +3,7 @@
 This LSTM neural network model was trained using nearly 1500 raw datasets to forecast the new cases for Covid-19 in Malaysia.
 
 ## **Descriptions:**
-1. Objective: To predict new cases in Malaysia using the past 30 days of number of cases in order to determine if travel bans should be imposed or rescinded.
+1. **_Objective_**: To predict new cases in Malaysia using the past 30 days of number of cases in order to determine if travel bans should be imposed or rescinded.
 2. The datasets are officially provided by **Ministry of Health Malaysia (MOH)**.
 3. The dataset contains anomalies as 2 different type of NaNs with 10 duplicates data.
 4. The layers used in the model training are input layers, LSTM and Dense as the output. A
