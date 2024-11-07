@@ -37,4 +37,4 @@ This LSTM neural network model was trained using nearly 1500 raw datasets to for
 ### **Credits:**
 The source of the dataset are 100% from MOH Github.
 Check out for the latest dataset from here:  
-[MoH-Malaysia/covid19-public: Official data on the COVID-19 epidemic in Malaysia. Powered by CPRC, CPRC Hospital System, MKAK, and MySejahtera.]
+[(MoH-Malaysia/covid19-public: Official data on the COVID-19 epidemic in Malaysia. Powered by CPRC, CPRC Hospital System, MKAK, and MySejahtera.)]
